@@ -13,3 +13,6 @@ Once the VM is running and you are connected via SSH, follow these steps:
 4. ./deploy-node.sh
 
 Go to the dashboard: http://YOUR-VM-IP:8081
+
+## Reference
+https://goshimmer.docs.iota.org/tutorials/setup.html
