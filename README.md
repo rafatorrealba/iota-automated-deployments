@@ -12,4 +12,4 @@ Once the VM is running and you are connected via SSH, follow these steps:
 
 4. ./deploy-node.sh
 
-Go to the dashboard: http://your-VM-ip:8081
+Go to the dashboard: http://YOUR-VM-IP:8081
