@@ -2,7 +2,7 @@
 Scripts for deploying IOTA 2.0 nodes on AWS EC2.
 
 ## Steps
-Once the VM is running and you are connected via SSH, follow this steps:
+Once the VM is running and you are connected via SSH, follow these steps:
 
 1. git clone https://github.com/rafatorrealba/iota-automated-deployments.git
 
